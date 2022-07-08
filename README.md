@@ -14,3 +14,8 @@ web：vue+flask 深度学习:pytorch+bert-seq2seq-mastter 标题生成使用t5mo
 智能创作模块只支持json文件的读入，且每个json文件只能放一个文章内容
 文件模板 [ { "id": 1, "content": "文章内容" } ]
 可能存在跨域问题待解决
+
+#  所需文件
+1、需要自己的训练集
+2、最好设置预训练模型
+3、
