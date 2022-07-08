@@ -1,0 +1,5 @@
+1、解压flask包，然后进入flask目录下，命令行输入 pip install -r requirements.txt安装依赖
+2、进入flask目录下命令行输入python app.py
+3、浏览器输入：http://127.0.0.1:3000/
+标题生成和内容概括，可使用/test_data_demo/test_no_title.json
+注意：标题生成模块和摘要模块，只支持单一文章内容推理，且json文件形式与算法评测下发文件一致
