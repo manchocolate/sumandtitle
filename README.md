@@ -18,4 +18,6 @@ web：vue+flask 深度学习:pytorch+bert-seq2seq-mastter 标题生成使用t5mo
 #  所需文件
 1、需要自己的训练集
 2、最好设置预训练模型
-3、
+3、可能存在跨域问题待解决
+4、模型训练： roberta_auto_title_train.py t5_auto_title_train.py 两个py文件是训练文件 
+5、下载相应的训练集和模型，然后进行训练，训练完成就可以进行推理
